@@ -9,5 +9,5 @@ func main() {
 }
 
 func run() (err error) {
-	return nil
+	return
 }
